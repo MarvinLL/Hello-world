@@ -1,0 +1,15 @@
+.answers {
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+     background-image: url("https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/568199/disney-magic-kingdom-castle-illustration.jpg&w=2000&op=resize");
+    color:white;
+}
+
+.characters {
+    display: flex;
+}
+
+
